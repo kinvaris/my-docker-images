@@ -1,3 +1,6 @@
+# Description
+This docker image sets up a arakoon node based on the config file
+
 # How-to-start
 
 * `sudo docker build -t projects/arakoon .`
